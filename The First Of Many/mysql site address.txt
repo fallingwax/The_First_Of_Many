@@ -1,0 +1,3 @@
+phpmyadmin.stackcp.com
+
+shareddb-i.hosting.stackcp.net
